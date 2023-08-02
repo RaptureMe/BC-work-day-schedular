@@ -1,5 +1,8 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+## Links
+Live Site - https://raptureme.github.io/BC-work-day-schedular/
+Github repo - https://github.com/RaptureMe/BC-work-day-schedular
 ## Description
 
 This is a schedular that uses a few different pieces we have learned throughout the bootcamp, it uses Bootstrap, Jquery, DayJS, and LocalStorage. Great assignment to pull it all together.
